@@ -1,0 +1,12 @@
+{
+  "manifest_version": 3,
+  "name": "Toolquix Extension",
+  "version": "1.0",
+  "description": "Quick access to Toolquix advanced web tools and calculators.",
+  "action": {
+    "default_popup": "index.html"
+  },
+  "icons": {
+    "128": "icon.png"
+  }
+}
